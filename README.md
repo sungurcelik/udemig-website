@@ -17,5 +17,6 @@ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyin:
 
 git clone <repository-url>
 
-https://share.zight.com/YEubPqlP
+
+![Uploading Zight Recording 2024-09-29 at 03.56.01 AM.gif…]()
 
