@@ -17,3 +17,5 @@ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyin:
 
 git clone <repository-url>
 
+https://share.zight.com/YEubPqlP
+
