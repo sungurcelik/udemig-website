@@ -17,5 +17,3 @@ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyin:
 
 git clone <repository-url>
 
-
-https://github.com/sungurcelik/udemig-website/issues/1#issue-2554584221
